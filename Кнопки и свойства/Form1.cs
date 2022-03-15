@@ -50,7 +50,7 @@ namespace Кнопки_и_свойства
             count++;
             
 
-            //button1.Text = "Кнопка нажата  " + count + " раз(a)";
+           //button1.Text = "Кнопка нажата  " + count + " раз(a)";
 
         }
 
